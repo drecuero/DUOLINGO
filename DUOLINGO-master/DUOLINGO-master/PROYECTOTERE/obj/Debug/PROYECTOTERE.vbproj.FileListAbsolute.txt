@@ -1,0 +1,16 @@
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\bin\Debug\PROYECTOTERE.exe.config
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\bin\Debug\PROYECTOTERE.exe
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\bin\Debug\PROYECTOTERE.pdb
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\bin\Debug\PROYECTOTERE.xml
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.vbprojAssemblyReference.cache
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.Form1.resources
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.Login.resources
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.mail.resources
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.Resources.resources
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.SignUp.resources
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.vbproj.GenerateResource.cache
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.exe
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.xml
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.pdb
+C:\Users\admin-dam2\Downloads\DUOLINGO-master\DUOLINGO-master\PROYECTOTERE\obj\Debug\PROYECTOTERE.admin_page.resources
